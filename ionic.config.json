@@ -1,0 +1,7 @@
+{
+  "name": "sellhub-v5",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
